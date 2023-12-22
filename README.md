@@ -1,4 +1,4 @@
-# **Charity DAO: Fundraising and Voting Process Guide*
+# Charity DAO: Fundraising and Voting Process Guide
 
 This document explains the deployment and usage of `fundingOption.sol` and `donor.sol` to conduct a fundraising campaign within the Charity DAO.
 
